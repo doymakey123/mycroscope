@@ -1,0 +1,2 @@
+1. Create database name "db_microscope" without doule qoute
+2. Import sql file
